@@ -1,2 +1,3 @@
 # Training
-This is my training repo
+This is my training repository
+This is my first commit
